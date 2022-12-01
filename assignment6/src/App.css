@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.textarea{
+  margin-left: 0px;
+  height: 100vh;
+  width: 30vw;
+  border: 2px solid black;
+}

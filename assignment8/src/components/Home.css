@@ -1,0 +1,40 @@
+.light-text{
+    color: black;
+}
+.dark-text{
+    color: white;
+}
+.light-bg{
+    background-color: white;
+}
+.dark-bg{
+    background-color: black;
+}
+h3{
+    color: palevioletred;
+}
+
+button{
+    margin-top: 20px;
+width: 100px;
+height: 30px;
+border-radius: 10px;
+margin-bottom: 50px;
+}
+.lightbtn{
+    color: black;
+    background-color: white;
+}
+.darkbtn{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+}
+.light-bg{
+height: 500px
+}
+#main{
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+}

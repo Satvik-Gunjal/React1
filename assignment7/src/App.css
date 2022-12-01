@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+box-sizing: border-box;
+}
+.main{
+text-align: center;
+margin-top: 100px;
+}
+.input{
+  height: 40px;
+  width: 300px;
+  border: 1px solid black;
+}
+select{
+  margin-top: 30px;
+  height: 20px;
+  width: 80px;
+}
+.sec{
+  margin-top: 10px;  
+}
+button{
+  height: 50px;
+  width: 350px;
+  background-color: black;
+  color: azure;
+}
+label{
+  font-size: large;
+}
